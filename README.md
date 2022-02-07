@@ -1,1 +1,0 @@
-# UD12_DiagramasER
